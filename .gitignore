@@ -1,0 +1,11 @@
+*.d
+*.o
+*.bak
+*.hzs
+*.elf
+*.ld
+*.map
+*.tex
+
+# Can also ignore all directories and files in a directory.
+tmp/**/* 
