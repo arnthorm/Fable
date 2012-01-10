@@ -1,0 +1,21 @@
+-I /opt/ros/electric/stacks/ros_comm/clients/cpp/roscpp_serialization/include/
+-I /opt/ros/electric/stacks/ros_comm/clients/cpp/roscpp_traits/include/
+-I /opt/ros/electric/stacks/ros_comm/clients/cpp/roscpp/msg_gen/cpp/include/
+-I /opt/ros/electric/stacks/ros_comm/clients/cpp/roscpp/include/
+-I /opt/ros/electric/stacks/ros_comm/utilities/message_filters/include/
+-I /opt/ros/electric/stacks/ros_comm/utilities/cpp_common/include/
+-I /opt/ros/electric/stacks/ros_comm/utilities/rostime/include/
+-I /opt/ros/electric/stacks/ros_comm/clients/cpp/roscpp_serialization/include/
+-I /opt/ros/electric/stacks/ros_comm/tools/topic_tools/srv_gen/
+-I /opt/ros/electric/stacks/ros_comm/tools/topic_tools/srv_gen/cpp/include/
+-I /opt/ros/electric/stacks/ros_comm/tools/topic_tools/include/
+-I /opt/ros/electric/stacks/ros_comm/tools/rosconsole/include/
+-I /opt/ros/electric/stacks/ros_comm/tools/rosbag/include/
+-I /opt/ros/electric/stacks/ros_comm/messages/rosgraph_msgs/msg_gen/cpp/include/
+-I /opt/ros/electric/stacks/ros_comm/messages/std_msgs/msg_gen/cpp/include/
+-I /opt/ros/electric/stacks/ros_comm/messages/std_msgs/include/
+-I /opt/ros/electric/stacks/ros_comm/messages/std_srvs/srv_gen/
+-I /opt/ros/electric/stacks/ros_comm/utilities/xmlrpcpp/src/
+-I /usr/include/opencv-2.3.1/
+-I ../srv_gen/cpp/include/
+

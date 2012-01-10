@@ -1,0 +1,394 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+<AddTwoInts-request>	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defclass <AddTwoInts-request> (roslisp-msg-protocol:ros-message)$/;"	f
+<AddTwoInts-response>	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defclass <AddTwoInts-response> (roslisp-msg-protocol:ros-message)$/;"	f
+<Num>	msg_gen/lisp/Num.lisp	/^(cl:defclass <Num> (roslisp-msg-protocol:ros-message)$/;"	f
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	184;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	187;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+AddTwoInts	src/beginner_tutorials/srv/_AddTwoInts.py	/^class AddTwoInts(roslib.message.ServiceDefinition):$/;"	c
+AddTwoInts	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct AddTwoInts$/;"	s	namespace:beginner_tutorials
+AddTwoInts-request	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defclass AddTwoInts-request (<AddTwoInts-request>)$/;"	f
+AddTwoInts-response	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defclass AddTwoInts-response (<AddTwoInts-response>)$/;"	f
+AddTwoIntsRequest	src/beginner_tutorials/srv/_AddTwoInts.py	/^class AddTwoIntsRequest(roslib.message.Message):$/;"	c
+AddTwoIntsRequest	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef  ::beginner_tutorials::AddTwoIntsRequest_<std::allocator<void> > AddTwoIntsRequest;$/;"	t	namespace:beginner_tutorials
+AddTwoIntsRequestConstPtr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsRequest const> AddTwoIntsRequestConstPtr;$/;"	t	namespace:beginner_tutorials
+AddTwoIntsRequestPtr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsRequest> AddTwoIntsRequestPtr;$/;"	t	namespace:beginner_tutorials
+AddTwoIntsRequest_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  AddTwoIntsRequest_()$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+AddTwoIntsRequest_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  AddTwoIntsRequest_(const ContainerAllocator& _alloc)$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+AddTwoIntsRequest_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct AddTwoIntsRequest_ {$/;"	s	namespace:beginner_tutorials
+AddTwoIntsResponse	src/beginner_tutorials/srv/_AddTwoInts.py	/^class AddTwoIntsResponse(roslib.message.Message):$/;"	c
+AddTwoIntsResponse	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef  ::beginner_tutorials::AddTwoIntsResponse_<std::allocator<void> > AddTwoIntsResponse;$/;"	t	namespace:beginner_tutorials
+AddTwoIntsResponseConstPtr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsResponse const> AddTwoIntsResponseConstPtr;$/;"	t	namespace:beginner_tutorials
+AddTwoIntsResponsePtr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsResponse> AddTwoIntsResponsePtr;$/;"	t	namespace:beginner_tutorials
+AddTwoIntsResponse_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  AddTwoIntsResponse_()$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+AddTwoIntsResponse_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  AddTwoIntsResponse_(const ContainerAllocator& _alloc)$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+AddTwoIntsResponse_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct AddTwoIntsResponse_ {$/;"	s	namespace:beginner_tutorials
+BEGINNER_TUTORIALS_MESSAGE_NUM_H	msg_gen/cpp/include/beginner_tutorials/Num.h	3;"	d
+BEGINNER_TUTORIALS_SERVICE_ADDTWOINTS_H	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	3;"	d
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/filedisc\/Dropbox\/workspace\/ros\/beginner_tutorials\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/filedisc\/Dropbox\/workspace\/ros\/beginner_tutorials$/;"	m
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	54;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+ConstPtr	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  typedef boost::shared_ptr< ::beginner_tutorials::Num_<ContainerAllocator>  const> ConstPtr;$/;"	t	struct:beginner_tutorials::Num_
+ConstPtr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator>  const> ConstPtr;$/;"	t	struct:beginner_tutorials::AddTwoIntsRequest_
+ConstPtr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator>  const> ConstPtr;$/;"	t	struct:beginner_tutorials::AddTwoIntsResponse_
+DataType	msg_gen/cpp/include/beginner_tutorials/Num.h	/^struct DataType< ::beginner_tutorials::Num_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+DataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct DataType< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+DataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct DataType< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+DataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct DataType<beginner_tutorials::AddTwoInts> {$/;"	s	namespace:ros::service_traits
+DataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct DataType<beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > {$/;"	s	namespace:ros::service_traits
+DataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct DataType<beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > {$/;"	s	namespace:ros::service_traits
+Definition	msg_gen/cpp/include/beginner_tutorials/Num.h	/^struct Definition< ::beginner_tutorials::Num_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+Definition	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct Definition< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+Definition	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct Definition< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+ID_VOID_MAIN	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IsFixedSize	msg_gen/cpp/include/beginner_tutorials/Num.h	/^template<class ContainerAllocator> struct IsFixedSize< ::beginner_tutorials::Num_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsFixedSize	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct IsFixedSize< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsFixedSize	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct IsFixedSize< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsMessage	msg_gen/cpp/include/beginner_tutorials/Num.h	/^template<class ContainerAllocator> struct IsMessage< ::beginner_tutorials::Num_<ContainerAllocator>  const> : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsMessage	msg_gen/cpp/include/beginner_tutorials/Num.h	/^template<class ContainerAllocator> struct IsMessage< ::beginner_tutorials::Num_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsMessage	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct IsMessage< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator>  const> : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsMessage	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct IsMessage< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsMessage	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct IsMessage< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator>  const> : public TrueType {};$/;"	s	namespace:ros::message_traits
+IsMessage	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct IsMessage< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > : public TrueType {};$/;"	s	namespace:ros::message_traits
+MD5Sum	msg_gen/cpp/include/beginner_tutorials/Num.h	/^struct MD5Sum< ::beginner_tutorials::Num_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+MD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct MD5Sum< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+MD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct MD5Sum< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > {$/;"	s	namespace:ros::message_traits
+MD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct MD5Sum<beginner_tutorials::AddTwoInts> {$/;"	s	namespace:ros::service_traits
+MD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct MD5Sum<beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > {$/;"	s	namespace:ros::service_traits
+MD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^struct MD5Sum<beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > {$/;"	s	namespace:ros::service_traits
+MemoryBuffer	src/ipcamstream.cpp	/^        MemoryBuffer() : memory(NULL), size(0) {}$/;"	f	class:MemoryBuffer
+MemoryBuffer	src/ipcamstream.cpp	/^class MemoryBuffer {$/;"	c	file:
+Num	msg_gen/cpp/include/beginner_tutorials/Num.h	/^typedef  ::beginner_tutorials::Num_<std::allocator<void> > Num;$/;"	t	namespace:beginner_tutorials
+Num	msg_gen/lisp/Num.lisp	/^(cl:defclass Num (<Num>)$/;"	f
+Num	src/beginner_tutorials/msg/_Num.py	/^class Num(roslib.message.Message):$/;"	c
+NumConstPtr	msg_gen/cpp/include/beginner_tutorials/Num.h	/^typedef boost::shared_ptr< ::beginner_tutorials::Num const> NumConstPtr;$/;"	t	namespace:beginner_tutorials
+NumPtr	msg_gen/cpp/include/beginner_tutorials/Num.h	/^typedef boost::shared_ptr< ::beginner_tutorials::Num> NumPtr;$/;"	t	namespace:beginner_tutorials
+Num_	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  Num_()$/;"	f	struct:beginner_tutorials::Num_
+Num_	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  Num_(const ContainerAllocator& _alloc)$/;"	f	struct:beginner_tutorials::Num_
+Num_	msg_gen/cpp/include/beginner_tutorials/Num.h	/^struct Num_ {$/;"	s	namespace:beginner_tutorials
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+Printer	msg_gen/cpp/include/beginner_tutorials/Num.h	/^struct Printer< ::beginner_tutorials::Num_<ContainerAllocator> >$/;"	s	namespace:ros::message_operations
+Ptr	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  typedef boost::shared_ptr< ::beginner_tutorials::Num_<ContainerAllocator> > Ptr;$/;"	t	struct:beginner_tutorials::Num_
+Ptr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> > Ptr;$/;"	t	struct:beginner_tutorials::AddTwoIntsRequest_
+Ptr	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef boost::shared_ptr< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> > Ptr;$/;"	t	struct:beginner_tutorials::AddTwoIntsResponse_
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+ROS_DECLARE_ALLINONE_SERIALIZER	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DECLARE_ALLINONE_SERIALIZER;$/;"	m	struct:ros::serialization::Serializer
+ROS_DECLARE_ALLINONE_SERIALIZER	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DECLARE_ALLINONE_SERIALIZER;$/;"	m	struct:ros::serialization::Serializer
+Request	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef AddTwoIntsRequest Request;$/;"	t	struct:beginner_tutorials::AddTwoInts
+RequestType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef Request RequestType;$/;"	t	struct:beginner_tutorials::AddTwoInts
+Response	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef AddTwoIntsResponse Response;$/;"	t	struct:beginner_tutorials::AddTwoInts
+ResponseType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^typedef Response ResponseType;$/;"	t	struct:beginner_tutorials::AddTwoInts
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+Serializer	msg_gen/cpp/include/beginner_tutorials/Num.h	/^template<class ContainerAllocator> struct Serializer< ::beginner_tutorials::Num_<ContainerAllocator> >$/;"	s	namespace:ros::serialization
+Serializer	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct Serializer< ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> >$/;"	s	namespace:ros::serialization
+Serializer	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^template<class ContainerAllocator> struct Serializer< ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> >$/;"	s	namespace:ros::serialization
+Type	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  typedef Num_<ContainerAllocator> Type;$/;"	t	struct:beginner_tutorials::Num_
+Type	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef AddTwoIntsRequest_<ContainerAllocator> Type;$/;"	t	struct:beginner_tutorials::AddTwoIntsRequest_
+Type	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef AddTwoIntsResponse_<ContainerAllocator> Type;$/;"	t	struct:beginner_tutorials::AddTwoIntsResponse_
+WINDOW	src/ipcamstream.cpp	/^static const char WINDOW[] = "Main Window";$/;"	v	file:
+__connection_header	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  boost::shared_ptr<std::map<std::string, std::string> > __connection_header;$/;"	m	struct:beginner_tutorials::Num_
+__connection_header	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  boost::shared_ptr<std::map<std::string, std::string> > __connection_header;$/;"	m	struct:beginner_tutorials::AddTwoIntsRequest_
+__connection_header	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  boost::shared_ptr<std::map<std::string, std::string> > __connection_header;$/;"	m	struct:beginner_tutorials::AddTwoIntsResponse_
+__getDataType	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED const std::string __getDataType() const { return __s_getDataType_(); }$/;"	f	struct:beginner_tutorials::Num_
+__getDataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getDataType() const { return __s_getDataType_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__getDataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getDataType() const { return __s_getDataType_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__getMD5Sum	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED const std::string __getMD5Sum() const { return __s_getMD5Sum_(); }$/;"	f	struct:beginner_tutorials::Num_
+__getMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getMD5Sum() const { return __s_getMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__getMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getMD5Sum() const { return __s_getMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__getMessageDefinition	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED const std::string __getMessageDefinition() const { return __s_getMessageDefinition_(); }$/;"	f	struct:beginner_tutorials::Num_
+__getMessageDefinition	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getMessageDefinition() const { return __s_getMessageDefinition_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__getMessageDefinition	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getMessageDefinition() const { return __s_getMessageDefinition_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__getServerMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getServerMD5Sum() const { return __s_getServerMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__getServerMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED const std::string __getServerMD5Sum() const { return __s_getServerMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__init__	src/beginner_tutorials/msg/_Num.py	/^  def __init__(self, *args, **kwds):$/;"	f
+__init__	src/beginner_tutorials/srv/_AddTwoInts.py	/^  def __init__(self, *args, **kwds):$/;"	f
+__s_getDataType	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED static const std::string __s_getDataType() { return __s_getDataType_(); }$/;"	f	struct:beginner_tutorials::Num_
+__s_getDataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getDataType() { return __s_getDataType_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getDataType	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getDataType() { return __s_getDataType_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getDataType_	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* __s_getDataType_() { return "beginner_tutorials\/Num"; }$/;"	f	struct:beginner_tutorials::Num_
+__s_getDataType_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getDataType_() { return "beginner_tutorials\/AddTwoIntsRequest"; }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getDataType_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getDataType_() { return "beginner_tutorials\/AddTwoIntsResponse"; }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getMD5Sum	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED static const std::string __s_getMD5Sum() { return __s_getMD5Sum_(); }$/;"	f	struct:beginner_tutorials::Num_
+__s_getMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getMD5Sum() { return __s_getMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getMD5Sum() { return __s_getMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getMD5Sum_	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* __s_getMD5Sum_() { return "57d3c40ec3ac3754af76a83e6e73127a"; }$/;"	f	struct:beginner_tutorials::Num_
+__s_getMD5Sum_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getMD5Sum_() { return "36d09b846be0b371c5f190354dd3153e"; }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getMD5Sum_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getMD5Sum_() { return "b88405221c77b1878a3cbbfff53428d7"; }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getMessageDefinition	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED static const std::string __s_getMessageDefinition() { return __s_getMessageDefinition_(); }$/;"	f	struct:beginner_tutorials::Num_
+__s_getMessageDefinition	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getMessageDefinition() { return __s_getMessageDefinition_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getMessageDefinition	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getMessageDefinition() { return __s_getMessageDefinition_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getMessageDefinition_	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* __s_getMessageDefinition_() { return "int64 num\\n\\$/;"	f	struct:beginner_tutorials::Num_
+__s_getMessageDefinition_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getMessageDefinition_() { return "int64 a\\n\\$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getMessageDefinition_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getMessageDefinition_() { return "int64 sum\\n\\$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getServerMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getServerMD5Sum() { return __s_getServerMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getServerMD5Sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED static const std::string __s_getServerMD5Sum() { return __s_getServerMD5Sum_(); }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__s_getServerMD5Sum_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getServerMD5Sum_() { return "6a2e34150c00229791cc89ff309fff21"; }$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+__s_getServerMD5Sum_	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* __s_getServerMD5Sum_() { return "6a2e34150c00229791cc89ff309fff21"; }$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+__slots__	src/beginner_tutorials/msg/_Num.py	/^  __slots__ = ['num']$/;"	v
+__slots__	src/beginner_tutorials/srv/_AddTwoInts.py	/^  __slots__ = ['a','b']$/;"	v
+__slots__	src/beginner_tutorials/srv/_AddTwoInts.py	/^  __slots__ = ['sum']$/;"	v
+_a_type	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef int64_t _a_type;$/;"	t	struct:beginner_tutorials::AddTwoIntsRequest_
+_b_type	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef int64_t _b_type;$/;"	t	struct:beginner_tutorials::AddTwoIntsRequest_
+_get_types	src/beginner_tutorials/msg/_Num.py	/^  def _get_types(self):$/;"	f
+_get_types	src/beginner_tutorials/srv/_AddTwoInts.py	/^  def _get_types(self):$/;"	f
+_has_header	src/beginner_tutorials/msg/_Num.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	v	class:Num
+_has_header	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	v	class:AddTwoIntsRequest
+_has_header	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _has_header = False #flag to mark the presence of a Header object$/;"	v	class:AddTwoIntsResponse
+_md5sum	src/beginner_tutorials/msg/_Num.py	/^  _md5sum = "57d3c40ec3ac3754af76a83e6e73127a"$/;"	v	class:Num
+_md5sum	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _md5sum = "36d09b846be0b371c5f190354dd3153e"$/;"	v	class:AddTwoIntsRequest
+_md5sum	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _md5sum = "b88405221c77b1878a3cbbfff53428d7"$/;"	v	class:AddTwoIntsResponse
+_md5sum	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _md5sum = '6a2e34150c00229791cc89ff309fff21'$/;"	v	class:AddTwoInts
+_num_type	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  typedef int64_t _num_type;$/;"	t	struct:beginner_tutorials::Num_
+_request_class	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _request_class  = AddTwoIntsRequest$/;"	v	class:AddTwoInts
+_response_class	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _response_class = AddTwoIntsResponse$/;"	v	class:AddTwoInts
+_slot_types	src/beginner_tutorials/msg/_Num.py	/^  _slot_types = ['int64']$/;"	v
+_slot_types	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _slot_types = ['int64','int64']$/;"	v
+_slot_types	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _slot_types = ['int64']$/;"	v
+_struct_2q	src/beginner_tutorials/srv/_AddTwoInts.py	/^_struct_2q = struct.Struct("<2q")$/;"	v
+_struct_I	src/beginner_tutorials/msg/_Num.py	/^_struct_I = roslib.message.struct_I$/;"	v
+_struct_I	src/beginner_tutorials/srv/_AddTwoInts.py	/^_struct_I = roslib.message.struct_I$/;"	v
+_struct_q	src/beginner_tutorials/msg/_Num.py	/^_struct_q = struct.Struct("<q")$/;"	v
+_struct_q	src/beginner_tutorials/srv/_AddTwoInts.py	/^_struct_q = struct.Struct("<q")$/;"	v
+_sum_type	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  typedef int64_t _sum_type;$/;"	t	struct:beginner_tutorials::AddTwoIntsResponse_
+_type	src/beginner_tutorials/msg/_Num.py	/^  _type = "beginner_tutorials\/Num"$/;"	v	class:Num
+_type	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _type          = 'beginner_tutorials\/AddTwoInts'$/;"	v	class:AddTwoInts
+_type	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _type = "beginner_tutorials\/AddTwoIntsRequest"$/;"	v	class:AddTwoIntsRequest
+_type	src/beginner_tutorials/srv/_AddTwoInts.py	/^  _type = "beginner_tutorials\/AddTwoIntsResponse"$/;"	v	class:AddTwoIntsResponse
+a	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  int64_t a;$/;"	m	struct:beginner_tutorials::AddTwoIntsRequest_
+a-val	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod a-val ((m <AddTwoInts-request>))$/;"	f
+add	src/add_two_ints_server.cpp	/^bool add(beginner_tutorials::AddTwoInts::Request &req, beginner_tutorials::AddTwoInts::Response &res) {$/;"	f
+allInOne	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  template<typename Stream, typename T> inline static void allInOne(Stream& stream, T m)$/;"	f	struct:ros::serialization::Serializer
+allInOne	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  template<typename Stream, typename T> inline static void allInOne(Stream& stream, T m)$/;"	f	struct:ros::serialization::Serializer
+b	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  int64_t b;$/;"	m	struct:beginner_tutorials::AddTwoIntsRequest_
+b-val	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod b-val ((m <AddTwoInts-request>))$/;"	f
+beginner_tutorials	msg_gen/cpp/include/beginner_tutorials/Num.h	/^namespace beginner_tutorials$/;"	n
+beginner_tutorials	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^namespace beginner_tutorials$/;"	n
+beginner_tutorials-msg	msg_gen/lisp/_package.lisp	/^(cl:defpackage beginner_tutorials-msg$/;"	f
+beginner_tutorials-srv	srv_gen/lisp/_package.lisp	/^(cl:defpackage beginner_tutorials-srv$/;"	f
+chatterCallback	src/listener.cpp	/^void chatterCallback(const std_msgs::String::ConstPtr &msg) {$/;"	f
+cl:initialize-instance	msg_gen/lisp/Num.lisp	/^(cl:defmethod cl:initialize-instance :after ((m <Num>) cl:&rest args)$/;"	f
+cl:initialize-instance	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod cl:initialize-instance :after ((m <AddTwoInts-request>) cl:&rest args)$/;"	f
+cl:initialize-instance	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod cl:initialize-instance :after ((m <AddTwoInts-response>) cl:&rest args)$/;"	f
+clear	src/ipcamstream.cpp	/^        void clear() {$/;"	f	class:MemoryBuffer
+convertBufferDataToIplImage	src/ipcamstream.cpp	/^void convertBufferDataToIplImage(MemoryBuffer *buf, image_transport::Publisher *pub) {$/;"	f
+curlDeInit	src/ipcamstream.cpp	/^void curlDeInit(CURL *curl) {$/;"	f
+curlInit	src/ipcamstream.cpp	/^void curlInit(CURL *curl, char *url, void *buf) {$/;"	f
+curlRealloc	src/ipcamstream.cpp	/^void *curlRealloc(void *ptr, size_t size) {$/;"	f
+deserialize	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED virtual uint8_t *deserialize(uint8_t *read_ptr)$/;"	f	struct:beginner_tutorials::Num_
+deserialize	src/beginner_tutorials/msg/_Num.py	/^  def deserialize(self, str):$/;"	f
+deserialize	src/beginner_tutorials/srv/_AddTwoInts.py	/^  def deserialize(self, str):$/;"	f
+deserialize	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED virtual uint8_t *deserialize(uint8_t *read_ptr)$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+deserialize	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED virtual uint8_t *deserialize(uint8_t *read_ptr)$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+deserialize_numpy	src/beginner_tutorials/msg/_Num.py	/^  def deserialize_numpy(self, str, numpy):$/;"	f
+deserialize_numpy	src/beginner_tutorials/srv/_AddTwoInts.py	/^  def deserialize_numpy(self, str, numpy):$/;"	f
+info_arch	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	src/add_two_ints_client.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	src/add_two_ints_server.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	src/ipcamstream.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	src/listener.cpp	/^int main(int argc, char **argv) {$/;"	f
+main	src/talker.cpp	/^int main(int argc, char **argv) {$/;"	f
+memory	src/ipcamstream.cpp	/^        char *memory;$/;"	m	class:MemoryBuffer	file:
+message_operations	msg_gen/cpp/include/beginner_tutorials/Num.h	/^namespace message_operations$/;"	n	namespace:ros
+message_traits	msg_gen/cpp/include/beginner_tutorials/Num.h	/^namespace message_traits$/;"	n	namespace:ros
+message_traits	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^namespace message_traits$/;"	n	namespace:ros
+num	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  int64_t num;$/;"	m	struct:beginner_tutorials::Num_
+num-val	msg_gen/lisp/Num.lisp	/^(cl:defmethod num-val ((m <Num>))$/;"	f
+operator <<	msg_gen/cpp/include/beginner_tutorials/Num.h	/^std::ostream& operator<<(std::ostream& s, const  ::beginner_tutorials::Num_<ContainerAllocator> & v)$/;"	f	namespace:beginner_tutorials
+placeIpImageInBuffer	src/ipcamstream.cpp	/^bool placeIpImageInBuffer(char *url, CURL *curl, MemoryBuffer *buf) {$/;"	f
+request	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^Request request;$/;"	m	struct:beginner_tutorials::AddTwoInts
+response	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^Response response;$/;"	m	struct:beginner_tutorials::AddTwoInts
+ros	msg_gen/cpp/include/beginner_tutorials/Num.h	/^namespace ros$/;"	n
+ros	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^namespace ros$/;"	n
+roslisp-msg-protocol:deserialize	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:deserialize ((msg <Num>) istream)$/;"	f
+roslisp-msg-protocol:deserialize	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:deserialize ((msg <AddTwoInts-request>) istream)$/;"	f
+roslisp-msg-protocol:deserialize	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:deserialize ((msg <AddTwoInts-response>) istream)$/;"	f
+roslisp-msg-protocol:md5sum	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql '<Num>)))$/;"	f
+roslisp-msg-protocol:md5sum	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql 'Num)))$/;"	f
+roslisp-msg-protocol:md5sum	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql '<AddTwoInts-request>)))$/;"	f
+roslisp-msg-protocol:md5sum	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql '<AddTwoInts-response>)))$/;"	f
+roslisp-msg-protocol:md5sum	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql 'AddTwoInts-request)))$/;"	f
+roslisp-msg-protocol:md5sum	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:md5sum ((type (cl:eql 'AddTwoInts-response)))$/;"	f
+roslisp-msg-protocol:message-definition	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql '<Num>)))$/;"	f
+roslisp-msg-protocol:message-definition	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql 'Num)))$/;"	f
+roslisp-msg-protocol:message-definition	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql '<AddTwoInts-request>)))$/;"	f
+roslisp-msg-protocol:message-definition	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql '<AddTwoInts-response>)))$/;"	f
+roslisp-msg-protocol:message-definition	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql 'AddTwoInts-request)))$/;"	f
+roslisp-msg-protocol:message-definition	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:message-definition ((type (cl:eql 'AddTwoInts-response)))$/;"	f
+roslisp-msg-protocol:ros-datatype	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql '<Num>)))$/;"	f
+roslisp-msg-protocol:ros-datatype	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql 'Num)))$/;"	f
+roslisp-msg-protocol:ros-datatype	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql '<AddTwoInts-request>)))$/;"	f
+roslisp-msg-protocol:ros-datatype	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql '<AddTwoInts-response>)))$/;"	f
+roslisp-msg-protocol:ros-datatype	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql 'AddTwoInts)))$/;"	f
+roslisp-msg-protocol:ros-datatype	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql 'AddTwoInts-request)))$/;"	f
+roslisp-msg-protocol:ros-datatype	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-datatype ((msg (cl:eql 'AddTwoInts-response)))$/;"	f
+roslisp-msg-protocol:ros-message-to-list	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-message-to-list ((msg <Num>))$/;"	f
+roslisp-msg-protocol:ros-message-to-list	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-message-to-list ((msg <AddTwoInts-request>))$/;"	f
+roslisp-msg-protocol:ros-message-to-list	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:ros-message-to-list ((msg <AddTwoInts-response>))$/;"	f
+roslisp-msg-protocol:serialization-length	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:serialization-length ((msg <Num>))$/;"	f
+roslisp-msg-protocol:serialization-length	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:serialization-length ((msg <AddTwoInts-request>))$/;"	f
+roslisp-msg-protocol:serialization-length	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:serialization-length ((msg <AddTwoInts-response>))$/;"	f
+roslisp-msg-protocol:serialize	msg_gen/lisp/Num.lisp	/^(cl:defmethod roslisp-msg-protocol:serialize ((msg <Num>) ostream)$/;"	f
+roslisp-msg-protocol:serialize	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:serialize ((msg <AddTwoInts-request>) ostream)$/;"	f
+roslisp-msg-protocol:serialize	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:serialize ((msg <AddTwoInts-response>) ostream)$/;"	f
+roslisp-msg-protocol:service-request-type	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:service-request-type ((msg (cl:eql 'AddTwoInts)))$/;"	f
+roslisp-msg-protocol:service-response-type	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod roslisp-msg-protocol:service-response-type ((msg (cl:eql 'AddTwoInts)))$/;"	f
+serialization	msg_gen/cpp/include/beginner_tutorials/Num.h	/^namespace serialization$/;"	n	namespace:ros
+serialization	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^namespace serialization$/;"	n	namespace:ros
+serializationLength	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED virtual uint32_t serializationLength() const$/;"	f	struct:beginner_tutorials::Num_
+serializationLength	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED virtual uint32_t serializationLength() const$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+serializationLength	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED virtual uint32_t serializationLength() const$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+serialize	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  ROS_DEPRECATED virtual uint8_t *serialize(uint8_t *write_ptr, uint32_t seq) const$/;"	f	struct:beginner_tutorials::Num_
+serialize	src/beginner_tutorials/msg/_Num.py	/^  def serialize(self, buff):$/;"	f
+serialize	src/beginner_tutorials/srv/_AddTwoInts.py	/^  def serialize(self, buff):$/;"	f
+serialize	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED virtual uint8_t *serialize(uint8_t *write_ptr, uint32_t seq) const$/;"	f	struct:beginner_tutorials::AddTwoIntsRequest_
+serialize	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  ROS_DEPRECATED virtual uint8_t *serialize(uint8_t *write_ptr, uint32_t seq) const$/;"	f	struct:beginner_tutorials::AddTwoIntsResponse_
+serialize_numpy	src/beginner_tutorials/msg/_Num.py	/^  def serialize_numpy(self, buff, numpy):$/;"	f
+serialize_numpy	src/beginner_tutorials/srv/_AddTwoInts.py	/^  def serialize_numpy(self, buff, numpy):$/;"	f
+service_traits	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^namespace service_traits$/;"	n	namespace:ros
+size	src/ipcamstream.cpp	/^        size_t size;$/;"	m	class:MemoryBuffer	file:
+static_value1	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const uint64_t static_value1 = 0x57d3c40ec3ac3754ULL;$/;"	m	struct:ros::message_traits::MD5Sum
+static_value1	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const uint64_t static_value1 = 0x36d09b846be0b371ULL;$/;"	m	struct:ros::message_traits::MD5Sum
+static_value1	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const uint64_t static_value1 = 0xb88405221c77b187ULL;$/;"	m	struct:ros::message_traits::MD5Sum
+static_value2	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const uint64_t static_value2 = 0xaf76a83e6e73127aULL;$/;"	m	struct:ros::message_traits::MD5Sum
+static_value2	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const uint64_t static_value2 = 0x8a3cbbfff53428d7ULL;$/;"	m	struct:ros::message_traits::MD5Sum
+static_value2	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const uint64_t static_value2 = 0xc5f190354dd3153eULL;$/;"	m	struct:ros::message_traits::MD5Sum
+stream	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  template<typename Stream> static void stream(Stream& s, const std::string& indent, const  ::beginner_tutorials::Num_<ContainerAllocator> & v) $/;"	f	struct:ros::message_operations::Printer
+sum	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  int64_t sum;$/;"	m	struct:beginner_tutorials::AddTwoIntsResponse_
+sum-val	srv_gen/lisp/AddTwoInts.lisp	/^(cl:defmethod sum-val ((m <AddTwoInts-response>))$/;"	f
+value	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::DataType
+value	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::Definition
+value	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::MD5Sum
+value	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* value(const  ::beginner_tutorials::Num_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::DataType
+value	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* value(const  ::beginner_tutorials::Num_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::Definition
+value	msg_gen/cpp/include/beginner_tutorials/Num.h	/^  static const char* value(const  ::beginner_tutorials::Num_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::Definition
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value() $/;"	f	struct:ros::message_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value() $/;"	f	struct:ros::service_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value() $/;"	f	struct:ros::service_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const  ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const  ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::Definition
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const  ::beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const  ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const  ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::Definition
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const  ::beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::message_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const beginner_tutorials::AddTwoInts&) { return value(); } $/;"	f	struct:ros::service_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const beginner_tutorials::AddTwoInts&) { return value(); } $/;"	f	struct:ros::service_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::service_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const beginner_tutorials::AddTwoIntsRequest_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::service_traits::MD5Sum
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::service_traits::DataType
+value	srv_gen/cpp/include/beginner_tutorials/AddTwoInts.h	/^  static const char* value(const beginner_tutorials::AddTwoIntsResponse_<ContainerAllocator> &) { return value(); } $/;"	f	struct:ros::service_traits::MD5Sum
+writeMemoryCallback	src/ipcamstream.cpp	/^size_t writeMemoryCallback(void *ptr, size_t size, size_t nmemb, void *data){$/;"	f
+~MemoryBuffer	src/ipcamstream.cpp	/^        ~MemoryBuffer() {}$/;"	f	class:MemoryBuffer
