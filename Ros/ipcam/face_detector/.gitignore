@@ -1,0 +1,14 @@
+bin
+build
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+msg_gen
+srv_gen
+.myvim
+
+src/*.pyc
+src/*/*.pyc
+src/*/*/*.pyc
+src/*/*/*/*.pyc
