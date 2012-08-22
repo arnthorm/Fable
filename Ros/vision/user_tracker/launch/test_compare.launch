@@ -1,0 +1,10 @@
+<launch>
+
+  <node pkg="recognition" name="recognition" type="recognition">
+    <param name="image_topic" value="" />
+    <param name="depth_topic" value="" />
+    <param name="database" value="test" />
+    <param name="debug" value="true" />
+  </node>
+
+</launch>

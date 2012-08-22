@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="user_tracker" name="user_tracker" type="user_tracker" />
+
+  <!--<include file="$(find openni_launch)/launch/openni.launch" />-->
+
+  <node pkg="posture_detection" name="posture" type="posture_detection.py" />
+  <!--<node pkg="fable_connection" name="fable_connection" type="node.py" />-->
+</launch>

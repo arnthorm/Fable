@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="user_tracker" name="user_tracker" type="user_tracker" />
+
+  <!--<include file="$(find openni_launch)/launch/openni.launch" />-->
+
+</launch>

@@ -1,0 +1,22 @@
+<package>
+  <description brief="Yet another ROS wrapper for Primesens user tracking">
+  </description>
+  <author>Arnþór</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/user_tracker</url>
+
+  <depend package="roscpp" />
+  <depend package="roslib" />
+  <depend package="openni" />
+  <depend package="geometry_msgs"/>
+  <depend package="sound_play"/>
+  <!--<depend package="eigen3" />-->
+  
+  <depend package="sensor_msgs"/>
+  <depend package="image_geometry"/>
+  <depend package="tf"/>
+  <depend package="recognition"/>
+
+</package>
+

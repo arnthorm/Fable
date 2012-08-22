@@ -1,0 +1,4 @@
+user_tracker/JointAng hip_pitch
+user_tracker/JointAng hip_yaw
+user_tracker/JointAng hip_roll
+user_tracker/JointAng knee_pitch

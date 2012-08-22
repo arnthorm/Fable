@@ -1,0 +1,16 @@
+<launch>
+
+  <node pkg="user_tracker" name="user_tracker" type="user_tracker" />
+
+  <include file="$(find openni_launch)/launch/openni.launch" />
+  
+  <node pkg="recognition" name="recognition" type="recognition">
+    <param name="image_topic" value="/camera/rgb/image_color" />
+    <param name="depth_topic" value="/camera/depth_registered/image" />
+    <param name="database" value="test" />
+  </node>
+  <!--<node pkg="dynamic_reconfigure" type="dynparam" name="dynparam" args="set /camera/driver depth_registration true" />-->
+
+  <!--<node name="soundplay_node" pkg="sound_play" type="soundplay_node.py"/>-->
+
+</launch>

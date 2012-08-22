@@ -1,0 +1,9 @@
+<stack>
+  <description brief="fable-ros">fable-ros</description>
+  <author>Maintained by Arnþór</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/fable-ros</url>
+  <depend stack="ros" />
+
+</stack>
