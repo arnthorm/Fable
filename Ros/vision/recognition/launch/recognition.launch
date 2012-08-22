@@ -1,0 +1,10 @@
+<launch>
+
+  <node pkg="recognition" name="recognition" type="recognition">
+    <param name="image_topic" value="/camera/rgb/image_color" />
+    <param name="depth_topic" value="/camera/depth_registered/image" />
+    <param name="database" value="users" />
+  </node>
+  <node pkg="dynamic_reconfigure" type="dynparam" name="dynparam" args="set /camera/driver depth_registration true" />
+
+</launch>
