@@ -1,0 +1,15 @@
+<package>
+  <description brief="Posture detection">
+
+  </description>
+  <author>Arnþór</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/posture_detection</url>
+
+  <depend package="rospy" />
+  <depend package="user_tracker" />
+
+</package>
+
+
