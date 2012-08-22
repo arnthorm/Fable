@@ -1,0 +1,16 @@
+<package>
+  <description brief="embedded">
+
+     embedded
+
+  </description>
+  <author>Arnþór</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/embedded</url>
+
+  <depend package="rospy" />
+
+</package>
+
+
